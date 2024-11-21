@@ -15,8 +15,9 @@
 
 ##### Home Page.
 ![Alt text](https://awesomescreenshot.s3.amazonaws.com/image/5907980/51691941-45f4474ef4013a69b036977f1879e0a7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20241121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241121T183238Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=f2cd606748d789ffc21c9557bc108099ed0944efd02b2cd08900c8fd9ec49eef)
-##### All News page.
+
 ![Alt text](https://i.ibb.co.com/NW12qF9/Global-Vista-Home-Newspaper.png)
+
 ##### Admin Panel
 ![Alt text](https://awesomescreenshot.s3.amazonaws.com/image/5907980/51692230-6b51345ac2057a3311d0d3003a6fec93.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20241121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241121T185159Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=99bdcdb402601dc7415dea070da4c71a70119f7cb195080ee3e8e5f4cd54f9a8)
 ![Alt text](https://awesomescreenshot.s3.amazonaws.com/image/5907980/51692244-68be0a757a3816ac77888618e905726c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20241121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241121T185255Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=dd73c623ce695bf81fcc3e98e3d3efa628a9ef7065ba11271c7d6e6b4ba1175b)
