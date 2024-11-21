@@ -1,0 +1,408 @@
+[
+   {
+      "title": "Exploring the Future of AI",
+      "banner": "https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Artificial intelligence is revolutionizing industries, shaping the future, and changing the way we interact with technology.",
+      "category": "technology",
+      "author": 
+         {
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "posted_date": "2024-11-01",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "Top Business Strategies for 2024",
+      "banner": "https://images.pexels.com/photos/3184416/pexels-photo-3184416.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Business leaders are focusing on innovation, sustainability, and digital transformation to thrive in competitive markets.",
+      "category": "business",
+      "author": 
+         {
+            "name": "Jane Smith",
+            "email": "jane.smith@example.com",
+            "posted_date": "2024-11-02",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "Breaking News in Politics Today",
+      "banner": "https://images.pexels.com/photos/1550337/pexels-photo-1550337.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "description": "Today's political landscape is dynamic, filled with debates, elections, and policies impacting global relations.",
+      "category": "politics",
+      "author": 
+         {
+            "name": "Robert Brown",
+            "email": "robert.brown@example.com",
+            "posted_date": "2024-11-03",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "The Rise of Cryptocurrency",
+      "banner": "https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Cryptocurrency is gaining popularity as a decentralized digital currency, transforming the financial industry worldwide.",
+      "category": "technology",
+      "author": 
+         {
+            "name": "Alice Green",
+            "email": "alice.green@example.com",
+            "posted_date": "2024-11-04",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "Health Tips for a Better Life",
+      "banner": "https://images.pexels.com/photos/2080544/pexels-photo-2080544.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "description": "Adopting a balanced diet, regular exercise, and mental wellness practices can significantly improve overall health.",
+      "category": "health",
+      "author": 
+         {
+            "name": "David Wilson",
+            "email": "david.wilson@example.com",
+            "posted_date": "2024-11-05",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "Popular Sports Highlights",
+      "banner": "https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "description": "Sports enthusiasts are enjoying thrilling matches, setting new records, and celebrating remarkable achievements.",
+      "category": "sports",
+      "author": 
+         {
+            "name": "Laura Taylor",
+            "email": "laura.taylor@example.com",
+            "posted_date": "2024-11-06",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "Innovations in Medical Technology",
+      "banner": "https://images.pexels.com/photos/105028/pexels-photo-105028.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "description": "Advancements in medical technology are improving diagnosis, treatment, and patient care across the globe.",
+      "category": "health",
+      "author": 
+         {
+            "name": "Michael Adams",
+            "email": "michael.adams@example.com",
+            "posted_date": "2024-11-07",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "Entrepreneurship Trends to Watch",
+      "banner": "https://images.pexels.com/photos/2116721/pexels-photo-2116721.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Entrepreneurs are embracing innovative ideas and leveraging technology to create groundbreaking businesses.",
+      "category": "business",
+      "author": 
+         {
+            "name": "Sophie Clark",
+            "email": "sophie.clark@example.com",
+            "posted_date": "2024-11-08",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "Global Politics in 2024",
+      "banner": "https://images.pexels.com/photos/1550340/pexels-photo-1550340.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "description": "International relations and geopolitical strategies are shaping the course of global politics this year.",
+      "category": "politics",
+      "author": 
+         {
+            "name": "Emma Lewis",
+            "email": "emma.lewis@example.com",
+            "posted_date": "2024-11-09",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "The Power of Cloud Computing",
+      "banner": "https://images.pexels.com/photos/3184460/pexels-photo-3184460.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Cloud computing is revolutionizing the way businesses operate by providing scalable and efficient solutions.",
+      "category": "technology",
+      "author": 
+         {
+            "name": "Noah Evans",
+            "email": "noah.evans@example.com",
+            "posted_date": "2024-11-10",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "Tips for Maintaining Mental Health",
+      "banner": "https://images.pexels.com/photos/1028599/pexels-photo-1028599.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "description": "Prioritizing mental health through mindfulness, therapy, and self-care routines can lead to a fulfilling life.",
+      "category": "health",
+      "author": 
+         {
+            "name": "Liam Walker",
+            "email": "liam.walker@example.com",
+            "posted_date": "2024-11-11",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "Advancements in Renewable Energy",
+      "banner": "https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "The renewable energy sector is booming with innovations in solar, wind, and other sustainable technologies.",
+      "category": "technology",
+      "author": 
+         {
+            "name": "Isabella Harris",
+            "email": "isabella.harris@example.com",
+            "posted_date": "2024-11-12",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "The Future of Sports Analytics",
+      "banner": "https://images.pexels.com/photos/248547/pexels-photo-248547.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "description": "Sports analytics is enhancing team strategies, player performance, and fan engagement like never before.",
+      "category": "sports",
+      "author": 
+         {
+            "name": "Ethan Scott",
+            "email": "ethan.scott@example.com",
+            "posted_date": "2024-11-13",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "Small Businesses and the Economy",
+      "banner": "https://images.pexels.com/photos/590041/pexels-photo-590041.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Small businesses play a vital role in driving economic growth, creating jobs, and fostering innovation.",
+      "category": "business",
+      "author": 
+         {
+            "name": "Charlotte Turner",
+            "email": "charlotte.turner@example.com",
+            "posted_date": "2024-11-14",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "Current Affairs in Politics",
+      "banner": "https://images.pexels.com/photos/2990644/pexels-photo-2990644.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "description": "Keeping up with political news helps citizens understand government policies and their implications.",
+      "category": "politics",
+      "author": 
+         {
+            "name": "Aiden Parker",
+            "email": "aiden.parker@example.com",
+            "posted_date": "2024-11-15",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "Breakthroughs in Biotechnology",
+      "banner": "https://images.pexels.com/photos/1640770/pexels-photo-1640770.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "description": "Biotechnology innovations are addressing global challenges in healthcare, agriculture, and environmental sustainability.",
+      "category": "health",
+      "author": 
+         {
+            "name": "Mia Hill",
+            "email": "mia.hill@example.com",
+            "posted_date": "2024-11-16",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "The Impact of Social Media",
+      "banner": "https://images.pexels.com/photos/341003/pexels-photo-341003.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "description": "Social media platforms influence public opinion, shape marketing strategies, and connect communities worldwide.",
+      "category": "popular",
+      "author": 
+         {
+            "name": "Oliver Wright",
+            "email": "oliver.wright@example.com",
+            "posted_date": "2024-11-17",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "Economic Forecast for 2025",
+      "banner": "https://images.pexels.com/photos/789822/pexels-photo-789822.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Economists predict a mixed year ahead with significant emphasis on innovation-driven economies and sustainability.",
+      "category": "business",
+      "author": 
+         {
+            "name": "Chloe Bennett",
+            "email": "chloe.bennett@example.com",
+            "posted_date": "2024-11-18",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "How Technology Drives Business Success",
+      "banner": "https://images.pexels.com/photos/158826/structure-light-led-movement-158826.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Technological advancements such as AI, IoT, and automation are becoming indispensable in achieving business goals.",
+      "category": "technology",
+      "author": 
+         {
+            "name": "Daniel Lee",
+            "email": "daniel.lee@example.com",
+            "posted_date": "2024-11-19",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "Mental Health Practices for Students",
+      "banner": "https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "description": "Students are increasingly adopting mindfulness practices, meditation, and time management to combat academic stress.",
+      "category": "health",
+      "author": 
+         {
+            "name": "Emily Thomas",
+            "email": "emily.thomas@example.com",
+            "posted_date": "2024-11-20",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "Sports and Community Building",
+      "banner": "https://images.pexels.com/photos/269948/pexels-photo-269948.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "description": "Sports events foster community engagement, teamwork, and inspire individuals to pursue a healthy lifestyle.",
+      "category": "sports",
+      "author": 
+         {
+            "name": "Henry Johnson",
+            "email": "henry.johnson@example.com",
+            "posted_date": "2024-11-21",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "The Evolution of Electric Vehicles",
+      "banner": "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Electric vehicles are shaping the future of transportation with eco-friendly solutions and innovative technologies.",
+      "category": "technology",
+      "author": 
+         {
+            "name": "Grace Wilson",
+            "email": "grace.wilson@example.com",
+            "posted_date": "2024-11-22",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "Why Business Ethics Matter",
+      "banner": "https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Business ethics build trust and credibility, fostering long-term relationships and sustainable growth.",
+      "category": "business",
+      "author": 
+         {
+            "name": "Liam Martin",
+            "email": "liam.martin@example.com",
+            "posted_date": "2024-11-23",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "Upcoming Trends in Social Media Marketing",
+      "banner": "https://images.pexels.com/photos/262524/pexels-photo-262524.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "description": "Marketers are leveraging innovative strategies, augmented reality, and AI tools to enhance online presence and engagement.",
+      "category": "popular",
+      "author": 
+         {
+            "name": "Sophia Taylor",
+            "email": "sophia.taylor@example.com",
+            "posted_date": "2024-11-24",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "Top 10 Influencers of 2024",
+      "banner": "https://images.pexels.com/photos/258395/pexels-photo-258395.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "description": "Social media influencers are redefining the way brands connect with audiences, building authentic and engaging communities.",
+      "category": "popular",
+      "author": 
+         {
+            "name": "Ava Mitchell",
+            "email": "ava.mitchell@example.com",
+            "posted_date": "2024-11-25",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "The Viral Trends Taking Over the Internet",
+      "banner": "https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "description": "From dance challenges to heartwarming stories, viral trends are shaping online culture and bringing people together.",
+      "category": "popular",
+      "author": 
+         {
+            "name": "Mason Carter",
+            "email": "mason.carter@example.com",
+            "posted_date": "2024-11-26",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "Exploring the World of Memes",
+      "banner": "https://images.pexels.com/photos/29438556/pexels-photo-29438556/free-photo-of-high-flying-drone-against-clear-sky.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "description": "Memes have become a universal language of humor, creativity, and expression in today's digital age.",
+      "category": "popular",
+      "author": 
+         {
+            "name": "Ella Brooks",
+            "email": "ella.brooks@example.com",
+            "posted_date": "2024-11-27",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "How Streaming Platforms Dominate Entertainment",
+      "banner": "https://images.pexels.com/photos/2382896/pexels-photo-2382896.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "description": "Streaming services are reshaping how we consume content, offering convenience and a plethora of choices for viewers.",
+      "category": "popular",
+      "author": 
+         {
+            "name": "Lucas Reed",
+            "email": "lucas.reed@example.com",
+            "posted_date": "2024-11-28",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   },
+   {
+      "title": "The Rise of Short Video Content",
+      "banner": "https://images.pexels.com/photos/2321837/pexels-photo-2321837.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "description": "Short video content on platforms like TikTok and Instagram is captivating audiences with its quick, engaging format.",
+      "category": "popular",
+      "author": 
+         {
+            "name": "Harper Morgan",
+            "email": "harper.morgan@example.com",
+            "posted_date": "2024-11-29",
+            "photo" : "https://simgbb.com/avatar/6YGwSWkXwQ0Y.jpg"
+         }
+      
+   }
+]
