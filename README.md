@@ -15,7 +15,7 @@
   The website uses MongoDB for data storage, Express.js for backend services, React.js for the frontend interface, and Node.js for server-side operations, ensuring robust performance.
 
 ##### Home Page.
-![Alt text](https://awesomescreenshot.s3.amazonaws.com/image/5907980/51691941-45f4474ef4013a69b036977f1879e0a7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20241121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241121T183238Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=f2cd606748d789ffc21c9557bc108099ed0944efd02b2cd08900c8fd9ec49eef)
+![Alt text](https://i.ibb.co.com/f8Gh9H3/1.png)
 ##### News page
 ![Alt text](https://awesomescreenshot.s3.amazonaws.com/image/5907980/51692205-a51e8045a3834dca87cbaa5383b71794.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20241121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241121T190255Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=abcf6e51fb24636c1812c539d68b3517e45b2d52d6281dade5ac05c8d17b7c98)
 ##### Admin Panel
