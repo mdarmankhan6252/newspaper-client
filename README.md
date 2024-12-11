@@ -16,6 +16,8 @@
 
 ##### Home Page.
 ![Alt text](https://i.ibb.co.com/f8Gh9H3/1.png)
+##### About Us Page.
+![Alt text](https://i.ibb.co.com/rxbNYgf/2.png)
 ##### News page
 ![Alt text](https://awesomescreenshot.s3.amazonaws.com/image/5907980/51692205-a51e8045a3834dca87cbaa5383b71794.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20241121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241121T190255Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=abcf6e51fb24636c1812c539d68b3517e45b2d52d6281dade5ac05c8d17b7c98)
 ##### Admin Panel
