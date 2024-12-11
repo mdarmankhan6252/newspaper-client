@@ -22,8 +22,8 @@
 ![Alt text](https://i.ibb.co.com/ysZRcjw/3.png)
 ##### Admin Panel
 ![Alt text](https://i.ibb.co.com/wLYDTrd/Global-Vista-Home-Newspaper-12-11-2024-08-16-PM.png)
-![Alt text](https://awesomescreenshot.s3.amazonaws.com/image/5907980/51692244-68be0a757a3816ac77888618e905726c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20241121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241121T185255Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=dd73c623ce695bf81fcc3e98e3d3efa628a9ef7065ba11271c7d6e6b4ba1175b)
-![Alt text](https://awesomescreenshot.s3.amazonaws.com/image/5907980/51692270-842e2656642d73b4e56e7ccc89e3b26f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20241121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241121T185402Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=1980d3589b6c86070a8efb78f16893abc59c444a608ea3edac8f20a9d594e71b)
+![Alt text](https://i.ibb.co.com/fHZyCvB/Global-Vista-Home-Newspaper-12-11-2024-08-17-PM.png)
+
 
 
 ### Technology
