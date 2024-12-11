@@ -19,7 +19,7 @@
 ##### About Us Page.
 ![Alt text](https://i.ibb.co.com/rxbNYgf/2.png)
 ##### News page
-![Alt text](https://awesomescreenshot.s3.amazonaws.com/image/5907980/51692205-a51e8045a3834dca87cbaa5383b71794.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20241121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241121T190255Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=abcf6e51fb24636c1812c539d68b3517e45b2d52d6281dade5ac05c8d17b7c98)
+![Alt text](https://i.ibb.co.com/ysZRcjw/3.png)
 ##### Admin Panel
 ![Alt text](https://awesomescreenshot.s3.amazonaws.com/image/5907980/51692230-6b51345ac2057a3311d0d3003a6fec93.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20241121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241121T185159Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=99bdcdb402601dc7415dea070da4c71a70119f7cb195080ee3e8e5f4cd54f9a8)
 ![Alt text](https://awesomescreenshot.s3.amazonaws.com/image/5907980/51692244-68be0a757a3816ac77888618e905726c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20241121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241121T185255Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=dd73c623ce695bf81fcc3e98e3d3efa628a9ef7065ba11271c7d6e6b4ba1175b)
