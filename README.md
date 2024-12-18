@@ -14,6 +14,17 @@
 - ##### MERN Stack Architecture:
   The website uses MongoDB for data storage, Express.js for backend services, React.js for the frontend interface, and Node.js for server-side operations, ensuring robust performance.
 
+  ### Technology
+- Node.js
+- Express.js
+- React.js
+- Mongodb
+- Firebase
+- Tailwind css
+- Tanstack query
+- Axios
+- React router dom for single page application.
+
 ##### Home Page.
 ![Alt text](https://i.ibb.co.com/f8Gh9H3/1.png)
 ##### About Us Page.
@@ -26,14 +37,5 @@
 
 
 
-### Technology
-- Node.js
-- Express.js
-- React.js
-- Mongodb
-- Firebase
-- Tailwind css
-- Tanstack query
-- Axios
-- React router dom for single page application.
+
 
